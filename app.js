@@ -86,7 +86,7 @@ function renderCategoryRadios(words){
             type="radio"
             id="${category}"
             value="${category}"
-            name="emotions"
+            name="categories"
             >
         </div>`
     }
